@@ -140,5 +140,5 @@ The above figure shows the techstack visual representation of the project.The fr
 
 ---
 
-![](./notes/Cost.png)
+
 
