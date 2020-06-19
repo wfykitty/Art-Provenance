@@ -1,12 +1,12 @@
 # Design Patterns for Blockchain
 
 ## Arts Provenance -- DigitalArt Token (DT)
-
-Muzammil -- 101281406<br>
 Feiya Wang --101036160<br>
+Muzammil -- 101281406<br>
+Neraj Obla KumarBabu --	101275194<br>
 Patterson Thamba -- 101280376<br>
 Vidyavathy Venkataseshadri -- 101266772<br>
-Neraj Obla KumarBabu --	101275194<br>
+
  
 ---
 
